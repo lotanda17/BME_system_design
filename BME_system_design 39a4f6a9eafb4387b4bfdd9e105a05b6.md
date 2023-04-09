@@ -15,7 +15,7 @@ Before proceeding with this project, we found the electrode location suitable fo
 
 ### Circuit Diagram (HW Connection)
 
-![Untitled](https://raw.githubusercontent.com/lotanda17/Images/main/BME_system_design/Image_Circuit)
+![Untitled](https://raw.githubusercontent.com/lotanda17/Images/main/BME_system_design/Image_Circuit.png)
 
 
 ***Operating Frequency: 48.2-159Hz***
