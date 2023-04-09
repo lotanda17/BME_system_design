@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bme_system_design_viewer2", "bme_system_design_viewer2.csproj", "{AE36EBEF-25FF-47B7-AFFE-3E7F626E9E6D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE36EBEF-25FF-47B7-AFFE-3E7F626E9E6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE36EBEF-25FF-47B7-AFFE-3E7F626E9E6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE36EBEF-25FF-47B7-AFFE-3E7F626E9E6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE36EBEF-25FF-47B7-AFFE-3E7F626E9E6D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EAFCB13B-3E63-420A-90DD-EE4A3FCF8B5B}
+	EndGlobalSection
+EndGlobal

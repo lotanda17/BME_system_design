@@ -1,0 +1,38 @@
+C:\Users\leetaegyeong\Desktop\bme_system_design_viewer2\bin\Debug\bme_system_design_viewer2.exe.config
+C:\Users\leetaegyeong\Desktop\bme_system_design_viewer2\bin\Debug\bme_system_design_viewer2.exe
+C:\Users\leetaegyeong\Desktop\bme_system_design_viewer2\bin\Debug\bme_system_design_viewer2.pdb
+C:\Users\leetaegyeong\Desktop\bme_system_design_viewer2\bin\Debug\Mitov.BasicLab.dll
+C:\Users\leetaegyeong\Desktop\bme_system_design_viewer2\bin\Debug\Mitov.PlotLabBasic.dll
+C:\Users\leetaegyeong\Desktop\bme_system_design_viewer2\obj\Debug\bme_system_design_viewer2.csproj.AssemblyReference.cache
+C:\Users\leetaegyeong\Desktop\bme_system_design_viewer2\obj\Debug\bme_system_design_viewer2.Form1.resources
+C:\Users\leetaegyeong\Desktop\bme_system_design_viewer2\obj\Debug\bme_system_design_viewer2.Properties.Resources.resources
+C:\Users\leetaegyeong\Desktop\bme_system_design_viewer2\obj\Debug\bme_system_design_viewer2.csproj.GenerateResource.cache
+C:\Users\leetaegyeong\Desktop\bme_system_design_viewer2\obj\Debug\bme_system_design_viewer2.csproj.CoreCompileInputs.cache
+C:\Users\leetaegyeong\Desktop\bme_system_design_viewer2\obj\Debug\bme_system_design_viewer2.csproj.CopyComplete
+C:\Users\leetaegyeong\Desktop\bme_system_design_viewer2\obj\Debug\bme_system_design_viewer2.exe
+C:\Users\leetaegyeong\Desktop\bme_system_design_viewer2\obj\Debug\bme_system_design_viewer2.pdb
+C:\Users\gram\OneDrive\바탕 화면\bme_system_design_viewer3\bin\Debug\bme_system_design_viewer2.exe.config
+C:\Users\gram\OneDrive\바탕 화면\bme_system_design_viewer3\bin\Debug\bme_system_design_viewer2.exe
+C:\Users\gram\OneDrive\바탕 화면\bme_system_design_viewer3\bin\Debug\bme_system_design_viewer2.pdb
+C:\Users\gram\OneDrive\바탕 화면\bme_system_design_viewer3\bin\Debug\Mitov.BasicLab.dll
+C:\Users\gram\OneDrive\바탕 화면\bme_system_design_viewer3\bin\Debug\Mitov.PlotLabBasic.dll
+C:\Users\gram\OneDrive\바탕 화면\bme_system_design_viewer3\obj\Debug\bme_system_design_viewer2.csproj.AssemblyReference.cache
+C:\Users\gram\OneDrive\바탕 화면\bme_system_design_viewer3\obj\Debug\bme_system_design_viewer2.Form1.resources
+C:\Users\gram\OneDrive\바탕 화면\bme_system_design_viewer3\obj\Debug\bme_system_design_viewer2.Properties.Resources.resources
+C:\Users\gram\OneDrive\바탕 화면\bme_system_design_viewer3\obj\Debug\bme_system_design_viewer2.csproj.GenerateResource.cache
+C:\Users\gram\OneDrive\바탕 화면\bme_system_design_viewer3\obj\Debug\bme_system_design_viewer2.csproj.CoreCompileInputs.cache
+C:\Users\gram\OneDrive\바탕 화면\bme_system_design_viewer3\obj\Debug\bme_system_design_viewer2.csproj.CopyComplete
+C:\Users\gram\OneDrive\바탕 화면\bme_system_design_viewer3\obj\Debug\bme_system_design_viewer2.exe
+C:\Users\gram\OneDrive\바탕 화면\bme_system_design_viewer3\obj\Debug\bme_system_design_viewer2.pdb
+C:\Users\Admin\Desktop\bme_system_design_viewer2\bin\Debug\bme_system_design_viewer2.exe.config
+C:\Users\Admin\Desktop\bme_system_design_viewer2\bin\Debug\bme_system_design_viewer2.exe
+C:\Users\Admin\Desktop\bme_system_design_viewer2\bin\Debug\bme_system_design_viewer2.pdb
+C:\Users\Admin\Desktop\bme_system_design_viewer2\bin\Debug\Mitov.BasicLab.dll
+C:\Users\Admin\Desktop\bme_system_design_viewer2\bin\Debug\Mitov.PlotLabBasic.dll
+C:\Users\Admin\Desktop\bme_system_design_viewer2\obj\Debug\bme_system_design_viewer2.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\bme_system_design_viewer2\obj\Debug\bme_system_design_viewer2.Form1.resources
+C:\Users\Admin\Desktop\bme_system_design_viewer2\obj\Debug\bme_system_design_viewer2.Properties.Resources.resources
+C:\Users\Admin\Desktop\bme_system_design_viewer2\obj\Debug\bme_system_design_viewer2.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\bme_system_design_viewer2\obj\Debug\bme_system_design_viewer2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\bme_system_design_viewer2\obj\Debug\bme_system_design_viewer2.exe
+C:\Users\Admin\Desktop\bme_system_design_viewer2\obj\Debug\bme_system_design_viewer2.pdb
