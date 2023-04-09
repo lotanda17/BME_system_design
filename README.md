@@ -1,5 +1,11 @@
 # BME_system_design
 
+
+## Project Demonstartion Video Link
+
+[https://www.youtube.com/watch?v=5sDXhGkFigs](https://www.youtube.com/watch?v=5sDXhGkFigs)
+
+
 ### Introduction
 
 This session is a description for my biomedical design project subject (Sep.2021 ~ Dec.2021)
@@ -22,7 +28,3 @@ Before proceeding with this project, we found the electrode location suitable fo
 
 HPF = 1/(2πRC), R=33k**Ω**, C=100nF 48.2Hz
 LPF = 1/(2πRC), R=10k**Ω**, C=100nF 159Hz
-
-### Project Demonstartion Video Link
-
-[https://www.youtube.com/watch?v=5sDXhGkFigs](https://www.youtube.com/watch?v=5sDXhGkFigs)
