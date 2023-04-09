@@ -28,3 +28,7 @@ Before proceeding with this project, we found the electrode location suitable fo
 
 HPF = 1/(2πRC), R=33k**Ω**, C=100nF 48.2Hz
 LPF = 1/(2πRC), R=10k**Ω**, C=100nF 159Hz
+
+### Flow Chart
+
+![Untitled](https://raw.githubusercontent.com/lotanda17/Images/main/BME_system_design/FlowChart.png)
