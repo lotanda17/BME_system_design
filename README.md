@@ -5,6 +5,9 @@
 
 [https://www.youtube.com/watch?v=5sDXhGkFigs](https://www.youtube.com/watch?v=5sDXhGkFigs)
 
+This program cannot run without electrodes, MSP430 Processor, and analog circuit PCB Board.
+If you want to check if this program is working properly, please go to the link above to confirm.
+
 
 ### Introduction
 
