@@ -1,7 +1,7 @@
 #include <msp430x16x.h>
 
 
-#define flexon              0xaa
+#define flexon            0xaa
 #define header            0x81
 
 
@@ -25,16 +25,16 @@ void main(void)
         } while ((IFG1 & OFIFG));
 
         // *****Main Clock, Sub Clock*****
-        BCSCTL2 = SELM_2;                     // 
-        BCSCTL2 |= SELS;                       // i don't know that reason why we using fast clock. because, bench press is so slow exercising
+        BCSCTL2 = SELM_2;                      
+        BCSCTL2 |= SELS;                      
 
         // *****Port Setting*****
         P1SEL &= ~(BIT6);
         P1DIR |= (BIT6);
         
-        P3SEL |= BIT4 | BIT5;                    //Port 3.4, 3.5 is communication
+        P3SEL |= BIT4 | BIT5;                   //Port 3.4, 3.5 is communication
         P6SEL= 0x07;                            //Port 6.0, 6.1, 6.2 is ADC  // 6.3 is GPIO
-        P6DIR = 0x0d;                             //Port 6.1 is input of flex sensor,  6.0,6.2,6.3 is output 
+        P6DIR = 0x0d;                           //Port 6.1 is input of flex sensor,  6.0,6.2,6.3 is output 
        
         // *****Timer Setting*****
         
@@ -44,13 +44,13 @@ void main(void)
         TACCR0 = 24000;                        // fs = 250Hz
         
         // *****UART Setting*****               8.2
-        ME1 |= UTXE0 + URXE0;                // Transmitter, Receiver
-        UCTL0 |= CHAR;                           // 8 Bit
+        ME1 |= UTXE0 + URXE0;                   // Transmitter, Receiver
+        UCTL0 |= CHAR;                          // 8 Bit
         UTCTL0 |= SSEL0 | SSEL1;
-        UBR00 = 0x34;                              // ¼³Á¤°ª
-        UBR10 = 0x00;                              // ¼³Á¤°ª
-        UMCTL0 = 0x00;                            // ¼³Á¤°ª
-        UCTL0 &= ~SWRST;                      // ¼³Á¤°ª
+        UBR00 = 0x34;                           // ì„¤ì •ê°’
+        UBR10 = 0x00;                           // ì„¤ì •ê°’
+        UMCTL0 = 0x00;                          // ì„¤ì •ê°’
+        UCTL0 &= ~SWRST;                        // ì„¤ì •ê°’
        
         
         //Set 12bit internal ADC
@@ -61,12 +61,12 @@ void main(void)
         
         ADC12MCTL0 = SREF_0 | INCH_0;
         ADC12MCTL1 = SREF_0 | INCH_1;
-        ADC12MCTL2 = SREF_0 | INCH_2 | EOS;;                   //Ãß°¡ÇÔ
+        ADC12MCTL2 = SREF_0 | INCH_2 | EOS;;     //ì¶”ê°€í•¨
         ADC12CTL0 |= ENC;
               
         _BIS_SR(LPM0_bits + GIE);
 
-        _EINT();                                        // Enable General Interrupt ************
+        _EINT();                                 // Enable General Interrupt ************
 
         while(1)
         {
